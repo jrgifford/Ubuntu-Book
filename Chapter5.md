@@ -1,4 +1,6 @@
-Chapter 5: Ubuntu One and Cloudy Stuff.
+#Half-completed, needs screenshots, and a walkthrough of Ubuntu One on 12.04.
+
+##Chapter 5: Ubuntu One and Cloudy Stuff.
 
 
 So, you’re in need of some file backup, right?
