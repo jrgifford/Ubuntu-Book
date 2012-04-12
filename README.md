@@ -1,7 +1,7 @@
 ##Oh hello.
 
 Travel back with me to the year 2010. A young, brash teenager gets a netbook, and
-doesn't want to use Windows 7 Starte edition on it (there might have been a Dad saying 
+doesn't want to use Windows 7 Starter edition on it (there might have been a Dad saying 
 "I won't help you when you have issues" somewhere in there).
 
 So he downloads Ubuntu 10.04 LTS netbook remix, and is immediately lost in the sea
@@ -16,7 +16,29 @@ about getting started with Ubuntu.
 <sub>Another goal is to keep it up-to-date, and have the next release of Ubuntu covered
   before release day, something that most projects struggle with.
 </sub>
-  
+
+
+###Contributing.
+
+So, do you want to contribute? Here's how it works:
+
+  - File a bug report with a cool chapter idea. Keep in mind the following:
+    - This is for beginners. We're not talking about "How to compile a Kernel 101" here, we're talking "How can I use my Ubuntu desktop".
+    - Keep it short if you can.
+  - Once I've given you the go-ahead for the chapter on the bug report, then go ahead and write it.
+  - Once it's written, feel free to submit a pull request in git. Make sure of the following:
+    - That the chapter is written in proper markdown.
+    - That the chapter is added to the TableOfContents.md file. 
+    - That it is called `Chapter#{NUMBER}.md`.
+    - That if required, it has screenshots. 
+    - Please use proper punctuation. 
+    
+###Translations.
+
+Right now, translations are a no-no. In the future, perhaps we'll look into translations, but right now
+it's a no.
+
+
 Unless otherwise noted, this is licensed under a
 Creative Commons Attribution-ShareAlike 3.0 Unported license.
 
