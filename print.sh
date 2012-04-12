@@ -1,2 +1,2 @@
 #!/bin/sh
-gimli -outputdir ./pdfs
+gimli -outputdir ./pdfs 

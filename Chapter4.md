@@ -2,7 +2,7 @@
 
 So, our desktop looks something like this:
 
-![](img/blank-desktop.png]
+![](img/blank-desktop.png)
 
 A little plain, huh?
 
