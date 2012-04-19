@@ -52,9 +52,9 @@ On the 20th of October, 2004, the world changed, just a little bit.
 
 Ubuntu 4.10 was released to the world.
 
-![](img/warty-menus.jpg)
+![](images/warty-menus.jpg)
 
-<sub>A littl bit ugly, huh? Just a tad.</sub>
+<sub>A little bit ugly, huh? Just a tad.</sub>
 
 
 Over the years, Ubuntu got more and more powerful,

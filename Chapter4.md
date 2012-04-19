@@ -2,7 +2,7 @@
 
 So, our desktop looks something like this:
 
-![](img/blank-desktop.png)
+![](images/blank-desktop.png)
 
 A little plain, huh?
 
@@ -14,20 +14,20 @@ I've had for a few months and lost track of where I found it.
 
 Open up System Settings. 
 
-![](img/Selection_001.png)
+![](images/Selection_001.png)
 
 Now you should see this:
 
-![](img/System_Settings_002.png)
+![](images/System_Settings_002.png)
 
 
 Click the appearance icon in the top left corner.
 
-![](img/System_Settings_003.png)
+![](images/System_Settings_003.png)
 
 Now, lets take a look at what we have going on here.
 
-![](img/System_Settings_004.png)
+![](images/System_Settings_004.png)
 
 1. The default wallpaper list.
 2. The current background - this is what your computer looks like
@@ -36,14 +36,14 @@ Now, lets take a look at what we have going on here.
 
 Click the little "+" button to the bottom left of the wallpaper list.
 
-![](img/System_Settings_005.png)
+![](images/System_Settings_005.png)
 
 Navigate to where your wallpaper is (mine is in the Download folder)
 and then click the "Open" button. 
 
 Now take a look!
 
-![](img/Workspace_1_006.png)
+![](images/Workspace_1_006.png)
 
 Our shiny new wallpaper is set!
 
