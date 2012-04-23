@@ -1,8 +1,11 @@
 frontmatter:
 README.md
+LICENSE
+mainmatter:
 Chapter1.md
 Chapter2.md
 Chapter3.md
 Chapter4.md
 Chapter5.md
 Chapter6.md
+backmatter:

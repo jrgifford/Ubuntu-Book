@@ -1,7 +1,6 @@
-#Do note that this is in need of screenshots. Will add soon.
+#Chapter 6: Getting Under The Hood of Ubuntu.
 
-##Chapter 6: Getting Under The Hood of Ubuntu.
-
+Do note that this is in need of screenshots. Will add soon.
 
 You have two options for tweaking your system past what is available in the default settings - Ubuntu Tweak, and Gnome Tweak Tool. Both are good, but I’ll only be covering the Ubuntu Tweak side of things, just for simplicity, since Gnome Tweak Tool  also brings in some extra software that is beyond the scope of this book, while Ubuntu Tweak is simple, and does it well.
 

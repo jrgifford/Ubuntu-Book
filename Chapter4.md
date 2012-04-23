@@ -1,4 +1,4 @@
-##Chapter 4: Tweaking Ubuntu.
+#Chapter 4: Tweaking Ubuntu.
 
 So, our desktop looks something like this:
 

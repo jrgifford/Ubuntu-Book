@@ -41,7 +41,7 @@ of the parties involved.
 
 Travel back with me to the year 2004. A guy by the name of “Mark Shuttleworth” 
 had been doing something with a bunch of Debian Linux (more on that later) developers - 
-they were known as “The super secret debian startup”.  
+they were known as “The super secret debian startup”.
 There was an IRC (internet relay chat) channel on Freenode - was known as #weirdos - 
 the team hung out there.
 

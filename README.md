@@ -1,4 +1,4 @@
-##Oh hello.
+#Forward
 
 Travel back with me to the year 2010. A young, brash teenager gets a netbook, and
 doesn't want to use Windows 7 Starter edition on it (there might have been a Dad saying 
@@ -41,5 +41,3 @@ it's a no.
 
 Unless otherwise noted, this is licensed under a
 Creative Commons Attribution-ShareAlike 3.0 Unported license.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="images/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
