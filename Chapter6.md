@@ -1,19 +1,24 @@
 #Chapter 6: Getting Under The Hood of Ubuntu.
 
-Do note that this is in need of screenshots. Will add soon.
+*Do note that this is in need of screenshots. Will add soon.*
 
-You have two options for tweaking your system past what is available in the default settings - Ubuntu Tweak, and Gnome Tweak Tool. Both are good, but I’ll only be covering the Ubuntu Tweak side of things, just for simplicity, since Gnome Tweak Tool  also brings in some extra software that is beyond the scope of this book, while Ubuntu Tweak is simple, and does it well.
+You have two options for tweaking your system past what is available in the default settings:
+
+- Ubuntu Tweak, 
+- Gnome Tweak Tool.
+ 
+Both are good, but I’ll only be covering the Ubuntu Tweak side of things, just for simplicity, since Gnome Tweak Tool also brings in some extra software that is beyond the scope of this book, while Ubuntu Tweak is simple, and does it well.
 
 Open up a terminal (Super/Windows key, then type in “Terminal”) and run the following:
 
-sudo add-apt-repository ppa:tualatrix/next
+`sudo add-apt-repository ppa:tualatrix/next`
 
 You’ll see something like this:
 
 
-sudo apt-get update
+`sudo apt-get update`
 
-sudo apt-get install ubuntu-tweak -y
+`sudo apt-get install ubuntu-tweak -y`
 
 Once you’ve done that, you’ll be able to launch Ubuntu Tweak by opening the dash (The Super/Windows key) and then typing in “Ubuntu Tweak”.
 
