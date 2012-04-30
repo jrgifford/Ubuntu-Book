@@ -1,6 +1,7 @@
 frontmatter:
 README.md
-LICENSE
+LICENSE.md
+CREDITS.md
 mainmatter:
 Chapter1.md
 Chapter2.md
