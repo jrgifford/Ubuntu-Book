@@ -2,28 +2,25 @@
 
 We'll be installing the Chromium web browser for this demo.
 
-For a (possibly) updated version of this, take a look at the [original Ask Ubuntu Question.](http://askubuntu.com/questions/66447/how-do-i-install-software-using-the-ubuntu-software-center)
-
+For a (possibly) updated version of this, take a look at
+the [original Ask Ubuntu Question.](http://askubuntu.com/questions/66447/how-do-i-install-software-using-the-ubuntu-software-center)
 
 ##Step one: Open the Ubuntu Software Center.
 
-
-To do that, open the Dash and then search for the "Ubuntu Software Center", 
+To do that, open the Dash and then search for the “Ubuntu Software Center”,
 as shown below:
 
 ![](images/Selection_036.png)
 
-
-Now, search for "Chromium" in the search bar, like below:
+Now, search for “Chromium” in the search bar, like below:
 
 ![](images/Ubuntu_Software_Center_037.png)
 
-Click the "More info" button, and then you should see this:
+Click the “More info” button, and then you should see this:
 
 ![](images/Ubuntu_Software_Center_038.png)
 
-
-Now, you can click the "Install" button, and it will ask you for your password:
+Now, you can click the “Install” button, and it will ask you for your password:
 
 ![](images/Ubuntu_Software_Center_039.png)
 
@@ -32,8 +29,5 @@ it will show something like this:
 
 ![](images/Ubuntu_Software_Center_040.png)
 
-
-After that, you should be good to go! You can change "Chromium" to almost anything,
-the instructions are the same for most software.
-
-
+After that, you should be good to go! You can change “Chromium” to almost
+anything, the instructions are the same for most software.
